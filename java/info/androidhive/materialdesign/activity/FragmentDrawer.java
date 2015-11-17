@@ -133,7 +133,7 @@ public class FragmentDrawer extends Fragment {
     }
 
     static class RecyclerTouchListener implements RecyclerView.OnItemTouchListener {
-
+//helo
         private GestureDetector gestureDetector;
         private ClickListener clickListener;
 
